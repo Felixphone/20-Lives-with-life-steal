@@ -1,0 +1,2 @@
+execute as @a if score GlobalStatusHolder enableLifeStealing matches 1.. if score @s kills matches 1.. run function wool:gain_life
+execute as @a if score GlobalStatusHolder enableLifeStealing matches 1.. if score @s kills matches 1.. run scoreboard players set @s kills 0
