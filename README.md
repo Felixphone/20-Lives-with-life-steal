@@ -12,9 +12,11 @@ Contains experimental features (Ghost phasing) so be carefull.
 To setup:
 1. load datapack into world folder under datapacks
 2. load up world
-3. run the command /reload
-4. click on the bold text to obtain the command book
+3. run the command: /tag @s add Wool20LivesAdministrator        #this will enable you to gain acces to the command book
+4. run the command: /reload
+5. click on the bold text that says 'interactive command book' to obtain the command book
 
-Most options can be configured through this book and it should step you through the process.
+Most options can be configured through this book and it should step you through the process. 
+More detail is provided about options by hovering over them with the mouse.
 
 Enjoy! :)
