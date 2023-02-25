@@ -6,7 +6,7 @@ Also includes optional settings for life steal where players can gain more lives
 
 Feel free to make any changes or share with friends!
 
-Contains experimental features (Ghost phasing) so be carefull.
+Contains experimental feature: Ghost phasing (disabled by defalt, but can be configured in command book) so be carefull when enabeling on large servers!
 
 
 To setup:
