@@ -1,6 +1,5 @@
 scoreboard objectives add Deaths deathCount
 scoreboard objectives add Lives dummy
-scoreboard objectives modify Lives rendertype hearts
 scoreboard objectives modify Lives displayname {"text": "Lives: ", "bold": true}
 scoreboard objectives setdisplay list Lives
 scoreboard objectives add enableLifeStealing dummy
