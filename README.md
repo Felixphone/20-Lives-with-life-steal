@@ -10,12 +10,12 @@ Contains experimental feature: Ghost phasing (disabled by defalt, but can be con
 
 
 To setup:
-1. download the latest release: https://github.com/Felixphone/Wool-s-20-Lives-with-life-steal/releases/tag/Release
-2. load datapack into world folder under datapacks
-3. load up world
-4. run the command: /tag @s add Wool20LivesAdministrator        #this will enable you to gain acces to the command book
-5. run the command: /reload
-6. click on the bold text that says 'interactive command book' to obtain the command book
+1. Download the latest release: https://github.com/Felixphone/Wool-s-20-Lives-with-life-steal/releases/tag/Release
+2. Load datapack into world folder under datapacks
+3. Load up world
+4. Run the command: /tag @s add Wool20LivesAdministrator        #this will enable you to gain acces to the command book
+5. Run the command: /reload
+6. Click on the bold text that says 'interactive command book' to obtain the command book
 
 Most options can be configured through this book and it should step you through the process. 
 More detail is provided about options by hovering over them with the mouse.
