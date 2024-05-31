@@ -1,4 +1,4 @@
-# Wool-s-20-Lives-with-life-steal
+# 20-Lives-with-life-steal
 A cool minecraft datapack that gives each player 20 lives.
 Cool death effects and great opportunity for lore.
 Once a player loses all their lives they become a ghost.
